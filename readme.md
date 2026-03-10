@@ -93,32 +93,17 @@ Want to contribute? 🔧 Get involved
 📜 License
 <div align="center">
 MIT License • Free for personal & commercial use
-
 Use it, modify it, share it — no restrictions.
 
 </div>
 ⭐ Support the Project
+
 <div align="center">
 If you find this useful, consider:
-
 Sharing with friends 👥
-
 Starring on GitHub ⭐
-
-Contributing ideas 💡
-
 Built with ❤️ for the open-source community
-
 Your data. Your computer. No limits.
 
 </div>
-📁 Repository Structure
-text
-├── app.py              # Main application
-├── requirements.txt    # Dependencies
-├── README.md          # This file
-├── assets/            # Images folder
-│   ├── screenshot1.png
-│   ├── screenshot2.png
-│   └── screenshot3.png
-└── LICENSE            # MIT License
+
