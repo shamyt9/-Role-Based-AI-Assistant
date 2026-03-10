@@ -2,10 +2,6 @@ repo
 🦙 Local AI Assistant
 <div align="center">
 Your Private, Unlimited AI Companion
-https://img.shields.io/badge/Privacy-100%2520Local-blueviolet
-https://img.shields.io/badge/Cost-Zero-green
-https://img.shields.io/badge/Limits-Unlimited-brightgreen
-https://img.shields.io/badge/Platform-Desktop%2520%257C%2520Mobile-orange
 
 </div>
 ✨ Features at a Glance
@@ -51,6 +47,8 @@ Optimized Setup     │ < 1 second
 Memory Usage        │ 4-8 GB RAM
 Storage (One-time)  │ ~2.3 GB
 🌟 Why Choose This?
+
+  
 Cloud APIs	This Assistant
 💰 Pay per token	🆓 Free forever
 🔒 Your data on their servers	🔐 Stays on your machine
@@ -58,26 +56,23 @@ Cloud APIs	This Assistant
 📶 Internet required	📴 Works offline
 📝 Usage tracked	🕶️ Completely private
 🖥️ Screenshots
+
+  
 <div align="center">
+
+  
 Main Interface
 <img src="screenshot1.png" alt="Main Interface" width="800"/>
-Role Selection
-<img src="screenshot2.png" alt="Role Selection" width="800"/>
-Response Example
-<img src="screenshot3.png" alt="Response Example" width="800"/></div>
+
+
 🔮 Coming Soon
 📎 Document upload (PDF, DOCX, TXT)
 
 💬 Conversation memory
-
 🎨 Custom role builder
-
 📤 Export conversations
-
 🎤 Voice input
-
 🌙 Dark mode
-
 🤝 Community
 <div align="center">
 Found a bug? 🐛 Report it here
